@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\1651\ASM2(Library)\ASM2(Library)\obj\Debug\ASM2(Library).csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\1651\ASM2(Library)\ASM2(Library)\obj\Debug\ASM2(Library).csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\1651\ASM2(Library)\ASM2(Library)\obj\Debug\ASM2(Library).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1651\ASM2(Library)\ASM2(Library)\bin\Debug\ASM2(Library).exe.config
+C:\Users\Administrator\Desktop\1651\ASM2(Library)\ASM2(Library)\bin\Debug\ASM2(Library).exe
+C:\Users\Administrator\Desktop\1651\ASM2(Library)\ASM2(Library)\bin\Debug\ASM2(Library).pdb
+C:\Users\Administrator\Desktop\1651\ASM2(Library)\ASM2(Library)\obj\Debug\ASM2(Library).exe
+C:\Users\Administrator\Desktop\1651\ASM2(Library)\ASM2(Library)\obj\Debug\ASM2(Library).pdb
